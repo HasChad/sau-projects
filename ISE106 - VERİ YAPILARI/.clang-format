@@ -1,0 +1,8 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 100
+PointerAlignment: Left
+Cpp11BracedListStyle: false
+AlignAfterOpenBracket: BlockIndent
+BinPackArguments: false
+PackConstructorInitializers: Never
